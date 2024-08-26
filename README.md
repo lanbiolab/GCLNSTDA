@@ -12,6 +12,8 @@ GCLNSTDA: Predicting tsRNA-Disease Association Based on Contrastive Learning and
 + pandas == 2.1.0
 + scipy == 1.11.2
 
+# Dataset
++ The dataset can be obtained in HTTP
 
 # Model
 + main.py: This file contains the main function. 
